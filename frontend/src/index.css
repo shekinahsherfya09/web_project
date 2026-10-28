@@ -1,0 +1,23 @@
+body {
+  background-color: #f5efe0; /* beige */
+}
+
+:root {
+  --bs-primary: #2f6f4e;
+  --bs-primary-rgb: 47, 111, 78;
+  --bs-link-color: #2f6f4e;
+  --bs-link-hover-color: #245a3e;
+}
+
+.btn-primary {
+  --bs-btn-bg: #2f6f4e;
+  --bs-btn-border-color: #2f6f4e;
+  --bs-btn-hover-bg: #245a3e;
+  --bs-btn-hover-border-color: #245a3e;
+  --bs-btn-active-bg: #1d4a33;
+  --bs-btn-active-border-color: #1d4a33;
+}
+
+.nav-pills {
+  --bs-nav-pills-link-active-bg: #2f6f4e;
+}
